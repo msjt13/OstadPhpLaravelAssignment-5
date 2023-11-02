@@ -1,5 +1,3 @@
-# Ostad-Module-Five-Assignment
-
 ## Requirements
 
 - Registration
@@ -38,13 +36,5 @@
     - Unique Message
     - Wrong User password warning
     - Username or Email Unique warning
-
-## How to install
-> git clone https://github.com/ahsan-ullah/ostad-5-assignment.git
-
-## Use Technology
-- PHP OOP Technology 
-- Data
-    - JSON file
-        - userList.json
-        - role.json
+    - All fields are required warning
+    - Password and Confirm Password have to match warning
